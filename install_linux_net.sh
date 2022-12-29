@@ -3,6 +3,7 @@
 echo "unzipping..."
 unzip ./linux_client.zip -d ~/Documents
 echo "unzipping file to ~/Documents done"
+echo "the login file will be saved to ~/Documents/linux_client"
 
 mv ~/Documents/linux_client/.auth-setting ~ 
 
