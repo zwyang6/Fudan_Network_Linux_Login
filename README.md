@@ -9,6 +9,13 @@ cd install_linux_net
 bash install_linux_net.sh
 
 ```
+### 3. Usage
+```
+# login
+onnet 
+
+# logout
+offnet
 
   ***The configure file will be saved automatically in ~/Documents/linux_client***
 
