@@ -1,7 +1,17 @@
 ## Configure file for FDU net login and logout for Ubuntu ##
 
-### 1. clone this repository ###
+### 1. Clone this repository ###
 
-### 2. cd install_linux_net ###
+### 2. Follow the commands ###
+```
+cd install_linux_net
 
-### 3. bash install_linux_net.sh ###
+bash install_linux_net.sh
+
+```
+
+  ***The configure file will be saved automatically in ~/Documents/linux_client***
+
+  ### IMPORTANT
+
+  **If you think it helpful, please thank for Jaye_Yann's contribution**
