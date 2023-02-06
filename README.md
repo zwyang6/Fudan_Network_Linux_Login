@@ -4,8 +4,6 @@
 
 ### 2. Follow the commands ###
 ```
-sudo su
-
 cd install_linux_net
 
 sudo bash install_linux_net.sh
