@@ -1,4 +1,4 @@
-## Configure file for FDU net login and logout for Ubuntu ##
+## Automatically Login or Logout to Fudan University Network ##
 
 ### 1. Clone this repository ###
 
@@ -24,4 +24,4 @@ offnet
 
   ### IMPORTANT
 
-  **If you think it helpful, please thank for Jaye_Yann's contribution**
+  **If you think it helpful, please don't give this repository a STAR**
